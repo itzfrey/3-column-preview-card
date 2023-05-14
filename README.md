@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images\Three-column-preview-card.JPG)
+![](./images/Three-column-preview-card.jpg)
 
 
 
