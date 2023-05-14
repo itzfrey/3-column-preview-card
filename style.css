@@ -27,14 +27,14 @@
     padding: 40px;
 }
 
-h1 {
+h2 {
     font-family: 'Big Shoulders Display';
     font-weight: 700;
     line-height: 50px;
     color: hsl(0, 0%, 95%);
 }
 
-p {
+.container-description {
    font-family: 'Lexend Deca', san-serif; 
    font-weight: 400;
    line-height: 23px;
