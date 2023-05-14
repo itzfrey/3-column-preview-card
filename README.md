@@ -30,7 +30,7 @@ Users should be able to:
 ### Screenshot
 
 
-![Screenshot of my app](https://./images/Three-column-preview-card.JPG)
+![Screenshot of my app](./images/Three-column-preview-card.JPG)
 
 
 
